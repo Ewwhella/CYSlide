@@ -1,0 +1,98 @@
+#GameTitle{
+    -fx-font-size: 100px;
+    -fx-text-fill: white;
+    -fx-font-family: "Vivaldi";
+    -fx-font-weight: bold;
+}
+
+#gameHighScore{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+
+
+#Gamebtn1{
+    -fx-padding: 5 20;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#GameReset{
+    -fx-padding: 5 20;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#Gamebtn3{
+    -fx-padding: 5 20;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#Gamebtn4{
+    -fx-padding: 5 20;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#Gamebtn5{
+    -fx-padding: 5 20;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#case{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-style: solid;
+    -fx-border-width: 0.5;
+    -fx-background-color: lightgray;
+}
+
+#caseGrey{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-style: solid inside;
+    -fx-border-width: 0.5;
+    -fx-background-color: gray;
+}
+
+
+#caseWhite{
+
+    -fx-background-color: white;
+
+}
+#gameCurrentScore{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+#Gametext1{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+#Gametext2{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}

@@ -1,0 +1,15 @@
+#winbtn{
+    -fx-padding: 15 30;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-margin: 50px;
+}
+
+#winlabel{
+    -fx-font-size: 100px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
